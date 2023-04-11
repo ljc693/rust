@@ -23,6 +23,6 @@ fn main() {
     );
     let black = Color(0, 0, 0);
     let origin = Point(0, 0, 0);
-    println!("user.name:{0},user.email:{1}",user1.username,user1.email);
-    println!("color:{0};point:{1}",black,origin);
+    println!("user.name:{0},user.email:{1}", user1.username, user1.email);
+    // println!("color:{0};point:{1}", black, origin);
 }
